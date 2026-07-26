@@ -1,0 +1,23 @@
+{
+  "manifest_version": 2,
+  "name": "StorScan",
+  "version": "1.0.2",
+  "description": "Audit, organize, repair, rename, report on, and locate lawful full text for Zotero attachments, with configurable author-folder organization.",
+  "author": "Vibe Coded with ChatGPT EDU by Brian J Griffith with code by Emiliano Heyns",
+  "applications": {
+    "zotero": {
+      "id": "storage-scanner@iris-advies.com",
+      "strict_min_version": "9.0",
+      "strict_max_version": "9.0.999",
+      "update_url": "https://example.com/storage-scanner-updates.json"
+    }
+  },
+  "icons": {
+    "16": "icon-16.png",
+    "24": "icon-24.png",
+    "32": "icon-32.png",
+    "48": "icon-48.png",
+    "96": "icon-96.png",
+    "128": "icon-128.png"
+  }
+}
