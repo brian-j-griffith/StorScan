@@ -107,4 +107,4 @@ Whether you're migrating an existing collection, reorganizing thousands of PDFs,
 
 ## Credits
 
-**Vibe Coded with ChatGPT EDU by Brian J. Griffith with code by Emiliano Heyns.**
+**Vibe Coded with ChatGPT EDU by Brian J Griffith with code by Emiliano Heyns.**
