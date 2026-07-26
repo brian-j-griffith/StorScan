@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/StorScan GitHub Banner.jpg" alt="StorScan" width="900">
+  <img src="./storscan-banner.jpg" alt="StorScan" width="900">
 </p>
 
 # StorScan
