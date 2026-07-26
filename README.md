@@ -126,7 +126,7 @@ Whether you're migrating an existing collection, reorganizing thousands of PDFs,
 
 # Credits
 
-StorScan was vibe coded with **ChatGPT EDU** by **Brian J. Griffith** with code derived from **Author Folder Organizer** by **Emiliano Heyns**.
+StorScan was vibe coded with **ChatGPT EDU** by **Brian J Griffith** with code derived from **Author Folder Organizer** by **Emiliano Heyns**.
 
 ---
 
